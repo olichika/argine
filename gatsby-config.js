@@ -24,4 +24,7 @@ module.exports = {
       __key: "images",
     },
   ],
+  stats: {
+    children: true,
+  },
 };
